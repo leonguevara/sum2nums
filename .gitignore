@@ -1,0 +1,6 @@
+# vamos a excluir estos archivos
+bin/
+obj/
+*.cbp
+*.layout
+
